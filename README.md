@@ -1,2 +1,4 @@
 # hello-word.
-awal repository
+
+hai gaes, lagi belajar git
+mudah - mudahan diberi kemudahan selalu
